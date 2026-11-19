@@ -1,0 +1,6312 @@
+{
+  "formatVersion": 2,
+  "laneLayout": "branch-5-v1",
+  "chartId": "rw-campaign-bonzi-dragon-5k-hyper-lein-328379-v1",
+  "difficultyId": "Boss / 5K HYPER",
+  "mapper": "LeiN-",
+  "songTitle": "Dragon and Girl and Decoherence / Bonzi Buddy",
+  "artist": "Kuroneko dungeon",
+  "bpm": 165,
+  "offsetMs": 150,
+  "difficulty": "Hard",
+  "audioClipPath": "Audio/Music/Levels/Dragon and Girl and Decoherence.mp3",
+  "backgroundTheme": "bonzi-core",
+  "approachSeconds": 2.4,
+  "timingWindowScale": 1.2,
+  "playableEndSeconds": 0,
+  "bossId": "bonzi-buddy",
+  "bossPhaseStarts": [
+    0,
+    46.695,
+    93.24
+  ],
+  "tutorialId": "",
+  "notes": [
+    {
+      "timestamp": 0.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 0.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 0.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 0.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 0.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 0.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 1.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 2.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 2.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 2.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 2.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 2.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 2.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 3.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 4.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 5.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 6.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 6.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 6.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 6.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 6.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 6.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 7.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 8.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 8.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 8.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 8.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 8.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 8.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 9.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 10.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 10.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 10.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 10.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 10.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 10.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 11.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 12.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 12.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 12.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 12.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 12.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 13.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 13.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 13.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 13.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 13.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 13.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 14.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 14.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 14.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 14.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 14.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 15.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 15.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 15.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 15.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 15.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 15.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 16.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 16.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 16.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 16.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 16.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 17.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 18.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 18.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 18.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 18.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 18.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 19.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 20.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 20.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 20.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 20.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 20.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 20.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 21.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 22.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 23.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 24.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 25.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 26.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 27.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 28.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 29.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 30.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 31.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 32.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 33.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 34.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 35.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 36.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 37.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 38.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 39.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 40.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 41.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 42.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 43.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Spyware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 44.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 45.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 46.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 49.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 52.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 55.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 58.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 58.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 58.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 58.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 58.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 59.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 60.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 60.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 60.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 60.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 60.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 60.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 61.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 62.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 63.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 64.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 65.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 66.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 66.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 66.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 66.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 66.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 66.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 67.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 68.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 68.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 68.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 68.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 68.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 68.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 69.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.089,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.21,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.453,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.574,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.816,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 70.937,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.18,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.301,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.543,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.665,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 71.907,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.028,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.271,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.392,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.634,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.756,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 72.998,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.119,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.362,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.483,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.725,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.846,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 73.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.089,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.21,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.453,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.574,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.816,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 74.937,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.18,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.301,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.543,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.665,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 75.907,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.028,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.271,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.392,
+      "laneIndex": 2,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.634,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.756,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 76.998,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.119,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.362,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.483,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.725,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.846,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 77.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.089,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.21,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.453,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.574,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.816,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 78.937,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.18,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.301,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.543,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.665,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 79.907,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.028,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.271,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.392,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.634,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.756,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 80.998,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.119,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.362,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.483,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 81.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 82.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 83.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 84.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 85.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 86.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 87.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Adware",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 88.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 89.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 90.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 91.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 92.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 93.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 94.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 95.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 95.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 96.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 97.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 98.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 98.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 99.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 100.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 100.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 100.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 100.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 100.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 100.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 101.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 101.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 101.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 101.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 102.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 103.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 104.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 105.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.786,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 106.968,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 107.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.059,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.695,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 108.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.24,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.422,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.695,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.786,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.877,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 109.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.059,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.877,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 110.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.15,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.24,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.331,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.604,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.695,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 111.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.15,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.24,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.331,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.513,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.604,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.695,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.877,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 112.968,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.15,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.331,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.422,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.513,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.604,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.786,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 113.968,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.059,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.24,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.331,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.422,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.513,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.604,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.786,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.877,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 114.968,
+      "laneIndex": 2,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.059,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.15,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.422,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.604,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.695,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.786,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.877,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 115.968,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.059,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.15,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.24,
+      "laneIndex": 4,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.331,
+      "laneIndex": 1,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.513,
+      "laneIndex": 2,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 116.513,
+      "laneIndex": 3,
+      "malwareTypeName": "Default",
+      "speedMultiplier": 1,
+      "duration": 0
+    },
+    {
+      "timestamp": 119.422,
+      "laneIndex": 0,
+      "malwareTypeName": "Trojan",
+      "speedMultiplier": 1,
+      "duration": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "sourceFramesPerSecond": 30,
+  "sequences": [
+    { "id": "Normal", "resourceFolder": "NoteCharacters/Normal", "timelineFrames": 16 },
+    { "id": "Spyware", "resourceFolder": "NoteCharacters/Spyware", "timelineFrames": 17 },
+    { "id": "Adware", "resourceFolder": "NoteCharacters/Adware", "timelineFrames": 16 },
+    { "id": "Trojan", "resourceFolder": "NoteCharacters/Trojan", "timelineFrames": 20, "disguisedFrameCount": 4, "revealStartFrame": 4, "revealedStillFrame": 7 }
+  ]
+}

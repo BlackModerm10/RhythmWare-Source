@@ -1,0 +1,11 @@
+{
+  "name": "rythmware-backend-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node privacy.cjs"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "0.3.14"
+  }
+}
