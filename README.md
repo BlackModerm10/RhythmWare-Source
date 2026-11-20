@@ -47,7 +47,7 @@ No se incluyen perfiles, resultados experimentales, códigos de recuperación ni
 
 ## Experiencia de evaluación
 
-El [README público](https://github.com/BlackModerm10/RhythmWare) contiene las instrucciones para jugadores. El [pretest](https://forms.gle/tWyXDhHbhvTkP41b9) se completa antes de abrir el juego y el [postest](https://forms.gle/tezAaDqva4wV9uhdA) después de la sesión. Los formularios y las respuestas SOC internas son fuentes distintas.
+El [README público](https://github.com/BlackModerm10/RhythmWare) contiene las instrucciones para jugadores. El [pretest](https://forms.gle/tWyXDhHbhvTkP41b9) se completa antes de abrir el juego y el [postest](https://forms.gle/tZ7bom8BJFBErc5u6) después de la sesión. Los formularios y las respuestas SOC internas son fuentes distintas.
 
 ## Acceso del profesor
 
